@@ -156,8 +156,6 @@ const Dashboard = () => {
         <div className="content-wrapper">
           <div className="card">
             <h3 className="card-title">Vehicle Data</h3>
-
-            {/* Search Input */}
             <div className="search-wrapper">
               <input
                 type="text"
